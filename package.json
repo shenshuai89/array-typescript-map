@@ -1,0 +1,27 @@
+{
+  "name": "array-typescript-map",
+  "version": "1.0.0",
+  "description": "array map typescript",
+  "main": "./dist/arraymap-ts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenshuai89/arraymap-ts.git"
+  },
+  "keywords": [
+    "array",
+    "map",
+    "typescript"
+  ],
+  "author": "shenshuai89@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenshuai89/arraymap-ts/issues"
+  },
+  "homepage": "https://github.com/shenshuai89/arraymap-ts#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
